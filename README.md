@@ -3,7 +3,7 @@
 ## Overview
 This project was developed for CSCI 185 – Programming II, Lab 3. It models people, students, and courses to demonstrate Java inheritance and relationships between objects.
 
-The `Student` class extends `Person`, adding a student ID, major, and an array of `Course` objects.
+The `Student` class extends `Person`, adding a student ID, major, and an array of `Course` objects. #
 
 ## Key Concepts
 - Inheritance using `extends`
